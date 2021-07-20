@@ -1,0 +1,953 @@
+ PAYOFF TABLE
+   237646.00   287539.00
+   534993.00   215578.00
+
+ Grid points
+   287539.00
+   283751.58
+   279964.16
+   276176.74
+   272389.32
+   268601.89
+   264814.47
+   261027.05
+   257239.63
+   253452.21
+   249664.79
+   245877.37
+   242089.95
+   238302.53
+   234515.11
+   230727.68
+   226940.26
+   223152.84
+   219365.42
+   215578.00
+
+Efficient solutions
+    1   237646.00   287539.00
+     X
+       die         trk         Mot         Srl              9050.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Bnt         Dhn              9050.00
+       die         trk         Chr         Brt             25340.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             34390.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Srl              3200.00
+       pet         trk         Mot         Amj              1760.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             30720.00
+     V
+       die         Chr              3439.00
+       die         Srl             17447.00
+       die         Amj             15624.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             36561.00
+       pet         Brt              5330.00
+       pet         Srl              5553.00
+       pet         Amj              1846.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    2   239539.71   283751.58
+     X
+       die         trk         Mot         Srl              6682.86
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Bnt         Dhn              9050.00
+       die         trk         Chr         Brt             25340.00
+       die         trk         Chr         Srl              2367.14
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             36757.14
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Srl              3200.00
+       pet         trk         Mot         Amj              1760.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             30720.00
+     V
+       die         Chr              3675.71
+       die         Srl             17210.29
+       die         Amj             15624.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             36324.29
+       pet         Brt              5330.00
+       pet         Srl              5789.71
+       pet         Amj              1846.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    3   241433.42   279964.16
+     X
+       die         trk         Mot         Srl              4315.72
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Bnt         Dhn              9050.00
+       die         trk         Chr         Brt             25340.00
+       die         trk         Chr         Srl              4734.28
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             39124.28
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Srl              3200.00
+       pet         trk         Mot         Amj              1760.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             30720.00
+     V
+       die         Chr              3912.43
+       die         Srl             16973.57
+       die         Amj             15624.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             36087.57
+       pet         Brt              5330.00
+       pet         Srl              6026.43
+       pet         Amj              1846.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    4   243327.13   276176.74
+     X
+       die         trk         Mot         Srl              1948.59
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Bnt         Dhn              9050.00
+       die         trk         Chr         Brt             25340.00
+       die         trk         Chr         Srl              7101.41
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             41491.41
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Srl              3200.00
+       pet         trk         Mot         Amj              1760.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             30720.00
+     V
+       die         Chr              4149.14
+       die         Srl             16736.86
+       die         Amj             15624.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35850.86
+       pet         Brt              5330.00
+       pet         Srl              6263.14
+       pet         Amj              1846.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    5   245460.32   272389.32
+     X
+       die         trk         Mot         Srl               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Bnt         Dhn              9050.00
+       die         trk         Chr         Brt             25340.00
+       die         trk         Chr         Srl              8810.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Srl              2242.11
+       pet         trk         Mot         Amj              2717.89
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl               957.89
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             31677.89
+     V
+       die         Chr              4320.00
+       die         Srl             16661.79
+       die         Amj             15528.21
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6338.21
+       pet         Amj              1941.79
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    6   248409.97   268601.89
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn               585.69
+       die         trk         Bnt         Dhn              8464.31
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              4960.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             33920.00
+     V
+       die         Chr              4320.00
+       die         Srl             16886.00
+       die         Amj             15304.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6114.00
+       pet         Amj              2166.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    7   251723.96   264814.47
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              2952.83
+       die         trk         Bnt         Dhn              6097.17
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              4960.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             33920.00
+     V
+       die         Chr              4320.00
+       die         Srl             16886.00
+       die         Amj             15304.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6114.00
+       pet         Amj              2166.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    8   255037.95   261027.05
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              5319.97
+       die         trk         Bnt         Dhn              3730.03
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              4960.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             33920.00
+     V
+       die         Chr              4320.00
+       die         Srl             16886.00
+       die         Amj             15304.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6114.00
+       pet         Amj              2166.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+    9   258351.95   257239.63
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              7687.11
+       die         trk         Bnt         Dhn              1362.89
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              4960.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1920.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             33920.00
+     V
+       die         Chr              4320.00
+       die         Srl             16886.00
+       die         Amj             15304.00
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6114.00
+       pet         Amj              2166.00
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   10   262383.26   253452.21
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              9050.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              5533.85
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Gnd         Npj              2560.00
+       pet         trk         Bnt         Dhn              1346.15
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Dhn               573.85
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             34493.85
+     V
+       die         Chr              4320.00
+       die         Srl             16943.39
+       die         Amj             15246.61
+       die         Ctw             98480.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              6056.61
+       pet         Amj              2223.39
+       pet         Ctw              3520.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   11   267390.62   249664.79
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              9050.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              6880.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Btl         Npj                14.01
+       pet         trk         Gnd         Npj              2545.99
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             12160.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             35840.00
+     V
+       die         Chr              4320.00
+       die         Srl             17142.00
+       die         Amj             15112.00
+       die         Ctw             98416.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5858.00
+       pet         Amj              2358.00
+       pet         Ctw              3584.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   12   275707.13   245877.37
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Mot         Amj              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              9050.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             30770.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             59730.00
+       pet         trk         Mot         Amj              6000.46
+       pet         trk         Mot         Npj              2260.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Btl         Npj               300.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Chr         Amj               879.54
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             13039.54
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             35840.00
+     V
+       die         Chr              4320.00
+       die         Srl             17142.00
+       die         Amj             15112.00
+       die         Ctw             98416.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5858.00
+       pet         Amj              2358.00
+       pet         Ctw              3584.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   13   286454.66   242089.95
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm              2310.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Mgl         Bhw               240.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              9050.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             28460.00
+       die         trk         Ctw         Pkr              7240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             57420.00
+       pet         trk         Slg         Amj               655.07
+       pet         trk         Mot         Amj              3984.93
+       pet         trk         Mot         Npj              2260.00
+       pet         trk         Btl         Bhw              6400.00
+       pet         trk         Btl         Npj               300.00
+       pet         trk         Chr         Brt              8320.00
+       pet         trk         Chr         Amj              2240.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             35840.00
+     V
+       die         Chr              4320.00
+       die         Srl             17142.00
+       die         Amj             15112.00
+       die         Ctw             98416.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5858.00
+       pet         Amj              2358.00
+       pet         Ctw              3584.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   14   298865.21   238302.53
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm              2550.00
+       die         trk         Btl         Bhw             25100.00
+       die         trk         Gnd         Npj             10860.00
+       die         trk         Gnd         Dhn              9050.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             28220.00
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw               240.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             57420.00
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw               545.79
+       pet         trk         Mot         Npj              1554.21
+       pet         trk         Btl         Bhw              5694.21
+       pet         trk         Btl         Npj              1005.79
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   15   319270.25   234515.11
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm              3188.77
+       die         trk         Btl         Bhw             24461.23
+       die         trk         Btl         Npj               638.77
+       die         trk         Mgl         Dhn              5700.00
+       die         trk         Gnd         Npj             10221.23
+       die         trk         Gnd         Dhn              3350.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             27581.23
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw               878.77
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             57420.00
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw              2100.00
+       pet         trk         Btl         Bhw              4140.00
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   16   342415.60   230727.68
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm              7397.02
+       die         trk         Btl         Bhw             20252.98
+       die         trk         Btl         Npj              4847.02
+       die         trk         Mgl         Dhn              5700.00
+       die         trk         Gnd         Npj              6012.98
+       die         trk         Gnd         Dhn              3350.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             23372.98
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw              5087.02
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             57420.00
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw              2100.00
+       pet         trk         Btl         Bhw              4140.00
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   17   365560.95   226940.26
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm             11605.26
+       die         trk         Btl         Bhw             16044.74
+       die         trk         Btl         Npj              9055.26
+       die         trk         Mgl         Dhn              5700.00
+       die         trk         Gnd         Npj              1804.74
+       die         trk         Gnd         Dhn              3350.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             19164.74
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw              9295.26
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             57420.00
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw              2100.00
+       pet         trk         Btl         Bhw              4140.00
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   18   389187.00   223152.84
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm             13410.00
+       die         trk         Btl         Amj              7210.53
+       die         trk         Btl         Bhw              7029.47
+       die         trk         Btl         Npj             10860.00
+       die         trk         Mgl         Dhn              5700.00
+       die         trk         Gnd         Dhn              3350.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             17360.00
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw             18310.53
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             64630.53
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw              2100.00
+       pet         trk         Btl         Bhw              4140.00
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   19   413958.77   219365.42
+     X
+       die         trk         Slg         Brt               240.00
+       die         trk         Slg         Ktm             16760.00
+       die         trk         Btl         Amj             10890.00
+       die         trk         Btl         Npj             10860.00
+       die         trk         Btl         Dhn              3350.00
+       die         trk         Mgl         Dhn              5700.00
+       die         trk         Chr         Brt             25100.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Ctw         Ktm             14010.00
+       die         trk         Ctw         Pkr              7240.00
+       die         trk         Ctw         Bhw             25340.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             68310.00
+       pet         trk         Slg         Brt              4800.00
+       pet         trk         Slg         Bhw              2107.16
+       pet         trk         Btl         Bhw              4132.84
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             19840.00
+       pet         trk         Ctw         Pkr              3840.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+   20   534993.00   215578.00
+     X
+       die         trk         Slg         Ktm             11260.00
+       die         trk         Slg         Pkr              7240.00
+       die         trk         Btl         Brt              9390.00
+       die         trk         Btl         Npj             10860.00
+       die         trk         Btl         Dhn              4850.00
+       die         trk         Mgl         Dhn              4200.00
+       die         trk         Chr         Brt              5590.00
+       die         trk         Chr         Srl              9050.00
+       die         trk         Chr         Ktm             19510.00
+       die         trk         Amj         Brt             10360.00
+       die         trk         Ctw         Bhw             25340.00
+       die         pip         Slg         Chr             43200.00
+       die         pip         Mot         Amj             90000.00
+       die         pip         Amj         Ctw             47060.00
+       pet         trk         Slg         Brt               860.00
+       pet         trk         Slg         Bhw              6240.00
+       pet         trk         Btl         Brt              3940.00
+       pet         trk         Btl         Npj              2560.00
+       pet         trk         Chr         Brt              3520.00
+       pet         trk         Chr         Amj              7040.00
+       pet         trk         Ctw         Srl              3200.00
+       pet         trk         Ctw         Ktm             23680.00
+       pet         trk         Ctw         Bhw               160.00
+       pet         trk         Ctw         Dhn              1920.00
+       pet         trk         Ktm         Pkr              3840.00
+       pet         pip         Slg         Chr             14400.00
+       pet         pip         Mot         Amj             36000.00
+       pet         pip         Amj         Ctw             36000.00
+     V
+       die         Chr              4320.00
+       die         Srl             17174.00
+       die         Amj             15096.00
+       die         Ctw             98400.00
+       die         Ktm               760.00
+       die         Pkr             10726.00
+       die         Bhw             38080.00
+       die         Npj               714.00
+       pet         Chr             35680.00
+       pet         Brt              5330.00
+       pet         Srl              5826.00
+       pet         Amj              2374.00
+       pet         Ctw              3600.00
+       pet         Pkr                34.00
+       pet         Bhw              1920.00
+       pet         Npj                46.00
+       pet         Dhn               760.00
+
+Infeasibilities =     0
+Elapsed time:       0.35 seconds
